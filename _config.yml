@@ -1,12 +1,12 @@
 ﻿# Site settings
-title: Hossein Karami | حسین کرمی
+title: Javad Elmi | جواد علمی
 email: hi@hosseinkarami.com
-description: توسعه‌دهنده رابط کاربری
-baseurl: "http://hosseinkarami.com/"
-url: "http://hosseinkarami.com"
+description: دانشجوی مهندسی کامپیوتر
+baseurl: "http://elmi-javd.ir/"
+url: "http://elmi-javad.ir"
 twitter: _Karamii
-github:  HosseinKarami
-behance: HosseinKarami
+github:  elmi-javad
+behance: elmi-javad
 # Build settings
 markdown: kramdown
 permalink: pretty
