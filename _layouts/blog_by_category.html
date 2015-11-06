@@ -3,7 +3,7 @@ layout: default
 ---
 
 <header id="post-header">
-    <h1 id="post-title">{{ page.category.title }}</h1>
+    <h1 id="post-title">{{ page.category }}</h1>
     <h4 id="post-subtitle">مجموعه مقالات</h4>
 </header>
 
@@ -32,6 +32,6 @@ layout: default
             {% endif %}
         {% endfor %}
     {% else %}
-        <p>There are no posts in this category.</p>
+        <p>در این گروه مقاله ای نیست</p>
     {% endif %}
 </div>
