@@ -1,6 +1,6 @@
 ---
 layout: blog_by_category
-title: 'Articles by category: general'
+title: 'مطالب عمومی'
 category: general
 permalink: /blog/category/general/
 ---
