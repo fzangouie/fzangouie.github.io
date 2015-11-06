@@ -1,11 +1,5 @@
-- slug: django
-  name: Django
+- slug: windows
+  name: ویندوز
 
-- slug: django-template-tags
-  name: Django Template Tags
-
-- slug: python
-  name: Python
-- slug: start	name:Start
-- slug: st	name:ST
-- slug: test	name:Test
+- slug: start
+  name: مناجات
