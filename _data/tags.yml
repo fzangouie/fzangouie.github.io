@@ -6,3 +6,6 @@
 
 - slug: python
   name: Python
+- slug: start	name:Start
+- slug: st	name:ST
+- slug: test	name:Test
