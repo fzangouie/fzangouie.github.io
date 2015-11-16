@@ -5,8 +5,8 @@ description: دانشجوی مهندسی کامپیوتر
 baseurl: "http://fzangouie.ir/"
 url: "http://fzangouie.ir"
 twitter: _Karamii
-github:  elmi-javad
-behance: elmi-javad
+github: fzangouie
+behance: fzangouie
 # Build settings
 markdown: kramdown
 permalink: pretty
