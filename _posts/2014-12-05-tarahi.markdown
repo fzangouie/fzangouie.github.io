@@ -2,7 +2,7 @@
 layout: post
 title: "وب سایت چیست؟ "
 permalink: 
-parsidate: جمعه ۱5 آبان ۱۳۹4
+parsidate: جمعه 15 آبان 1394
 comments: true
 imglink: http://fzangouie.ir/assets/img/web-design1.jpg
 imgauthor: http://florianklauer.de/
