@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "آموزش کامل طراحی وب سایت در فتوشاپ با جزییات "
+title: "آموزش طراحی وب سایت با فتو شاپ "
 permalink: 
 parsidate: جمعه ۱5 آبان ۱۳۹4
 comments: true
