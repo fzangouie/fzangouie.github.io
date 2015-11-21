@@ -10,7 +10,7 @@ imgauthorname: Florian Klauer
 category: IT
 tags: [gmail]
 ---
-![alt text]({{site.url}}/assets/img/post1.jpg)
+![alt text]({{site.url}}/assets/img/1.jpg)
 
 
 در این ارسال نحوه طراحی یک وب سایت در فتوشاپ را همراه با کلیه جزییا
