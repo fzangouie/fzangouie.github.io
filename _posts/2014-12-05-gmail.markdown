@@ -4,13 +4,13 @@ title:  "آموزش کامل طراحی وب سایت در فتوشاپ با ج�
 permalink: 
 parsidate: جمعه ۱5 آبان ۱۳۹4
 comments: true
-imglink: http://hosseinkarami.com/assets/img/1.jpg
+imglink: http://hosseinkarami.com/assets/img/post/typewriter.jpg
 imgauthor: http://florianklauer.de/
 imgauthorname: Florian Klauer
 category: IT
 tags: [gmail]
 ---
-![alt text]({{site.url}}/assets/img/1.jpg)
+![alt text]({{site.url}}/assets/img/post1.jpg)
 
 
 در این ارسال نحوه طراحی یک وب سایت در فتوشاپ را همراه با کلیه جزییا
@@ -36,3 +36,9 @@ tags: [gmail]
     ![alt text]({{site.url}}/assets/img/2.jpg)
 
 
+سایز کلی وب سایت شما 960px خواهد بود. بنابراین اولین خط راهنما (Guide) را با رفتن به منوی view و ک
+لیک روی گزینه New Guide و مقدار 220px رسم میکنیم. دومین خط راهنما را نیز از همین طریق با
+ مقدار 1180px رسم می کنیم. با رسم این دو خط راهنما در وسط وصفح
+ه 960px فضا برای پیاده سازی وب سایت خواهیم داشت.
+
+   ![alt text]({{site.url}}/assets/img/3.jpg)
